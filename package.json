@@ -1,0 +1,14 @@
+{
+  "name": "0xgolip-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "pino": "^8.0.0",
+    "ytdl-core": "^4.11.0",
+    "tiktok-scraper-dl": "^1.2.0"
+  }
+}
